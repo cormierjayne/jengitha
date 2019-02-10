@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zoovaxoh.andreaslagerkvist.com/sitemap.xml
